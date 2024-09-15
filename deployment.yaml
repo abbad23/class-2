@@ -1,0 +1,2 @@
+sh docker build -t class-2 .
+sh docker run -d --name container-name  -p 8080:8080
